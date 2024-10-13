@@ -127,23 +127,8 @@
             spring<span class="hljs-selector-class">.datasource</span><span class="hljs-selector-class">.password</span>=root
         </code>
     </pre>
-    
-    
-<h3 align="center">Contributors</h3>
-<table align="center">
-<tbody>
-<tr valign="top">
+  
 
-<td width="25%" align="center">
-<p dir="auto"><span>Admin Developer</span><br><br></p>
-<p dir="auto"><span>Ved Paswan</span><br></p>
-</td>
-
-
-<td width="25%" align="center">
-<p dir="auto"><span>User Developer</span><br><br></p>
-<p dir="auto"><span>Shubham Verma</span><br></p>
-</td>
 
 
 </tr>
